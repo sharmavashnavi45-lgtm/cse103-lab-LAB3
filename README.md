@@ -22,4 +22,4 @@ Lab work for LAB 3 — GitHub Collaboration &amp; API Interaction
 
 ## Connect With Me
 - LinkedIn : www.linkedin.com/in/vaishnavi-sharma-106808430
-- Email : welcome@krmangalaam.edu.in
+- Email : welcome@krmangalam.edu.in
